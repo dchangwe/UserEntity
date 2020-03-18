@@ -1,0 +1,6 @@
+[submodule "UserEntity"]
+	path = UserEntity
+	url = https://github.com/dchangwe/UserEntity.git
+[submodule "AbstractEntity"]
+	path = AbstractEntity
+	url = https://github.com/dchangwe/AbstractEntity.git
